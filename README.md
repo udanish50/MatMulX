@@ -1,5 +1,7 @@
 # MatMulX
 
+> **V2.1 UI consistency release:** the standalone workbench and umairdanish.com integration now use the same visual system as the existing Software catalog and algorithm-software pages.
+
 Benchmark multiplication on real public numeric matrices, compare dense and zero-skipping work, and inspect output structure.
 
 ## What V2 adds
